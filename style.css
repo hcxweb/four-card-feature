@@ -17,6 +17,8 @@ body {
     color: hsl(234, 12%, 34%);
 }
 
+main { transform: translateY(-6px);}
+
 header {
     text-align: center;
     margin-bottom: 6.4rem;
@@ -58,7 +60,7 @@ article::before {
     content: " ";
     position: absolute;
     width: 100%;
-    height: 5px;
+    height: 4px;
     top: 0;
     left: 0;
 }
@@ -73,7 +75,7 @@ article:last-child::before { background-color: hsl(212, 86%, 64%); }
 
 article h2 {
     font: 600 2rem/3rem 'Poppins', sans-serif;
-    margin-bottom: 6px;
+    margin-bottom: 1rem;
 }
 
 article p {
@@ -86,8 +88,8 @@ article img {
     width: 6.4rem;
     display: block;
     position: absolute;
-    right: 3rem;
-    bottom: 3.5rem;
+    right: 3.3rem;
+    bottom: 3.3rem;
 }
 
 .supervisor {
@@ -142,6 +144,8 @@ article img {
 
     body { padding: 8.5rem 3.2rem 7.8rem; }
 
+    main { transform: translateY(0); }
+
     header { margin-bottom: 7.6rem; }
     
     header h1 {
@@ -159,6 +163,8 @@ article img {
         flex-basis: 22.2rem;
         padding-top: 2.5rem;
     }
+
+    article h2 { margin-bottom: 3px; }
 
     article img {
         width: 5.7rem;
