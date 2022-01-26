@@ -13,8 +13,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/four-card-feature-using-grid-and-flexbox-fa3mcXcwg)
-- Live Site URL: [Add live site URL here](https://hcxweb.github.io/four-card-feature/)
+- Solution URL: [https://www.frontendmentor.io/solutions/four-card-feature-using-grid-and-flexbox-fa3mcXcwg]
+- Live Site URL: [https://hcxweb.github.io/four-card-feature/]
 
 ### Built with
 
